@@ -16,8 +16,6 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Murtuza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/murtuzaalam9/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Murtuza-blue)](https://stackoverflow.com/users/8927672/murtaza-alam?tab=profile)
 
 Strong in design and integration with intuitive problem-solving skills. Proficient in HTML, CSS, Bootstrap, JAVASCRIPT, Nodejs , NestJs , Flutter ,
 React Native,Mern stack,PHP ,Laravel , codeignitor ,Vue , Go lang,c , c++ ,JAVA, R language,
